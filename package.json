@@ -1,0 +1,20 @@
+{
+  "name": "carro_backend_del",
+  "version": "1.0.0",
+  "description": "coisas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "author": "gui",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "middleware": "^1.0.0",
+    "mysql2": "^3.24.4"
+  }
+}
